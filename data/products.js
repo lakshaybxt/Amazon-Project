@@ -44,6 +44,48 @@ const products = [
     ],
     type: "clothing",
     sizeChartLink: "images/clothing-size-chart.png"
+  },{
+    id: "75lkbnbb-1931-315l-k19b-20052004love",
+    image: "images/products/naruto-love-hinata.jpg",
+    name: "Naruto Hinata Wallpaper",
+    rating: {
+      stars: 5,
+      count: 4197
+    },
+    priceCents: 1931,
+    keywords: [
+      "naruto",
+      "hinata",
+      "love"
+    ]
+  },{
+    id: "f28986e8-c29d-4b1a-b6c9-ade2433623dc",
+    image: "images/products/naruto-action-figure.jpg",
+    name: "Naruto Sage Action Figure",
+    rating: {
+      stars: 4.5,
+      count: 3669
+    },
+    priceCents: 2550,
+    keywords: [
+      "naruto",
+      "sage",
+      "rasengan"
+    ]
+  },{
+    id: "9deeba4a-7d1e-4963-8078-d01196b34e08",
+    image: "images/products/mikasa-love-eren.jpg",
+    name: "Eren Mikasa Child Poster",
+    rating: {
+      stars: 5,
+      count: 3229
+    },
+    priceCents: 1850,
+    keywords: [
+      "mikasa",
+      "love",
+      "eren"
+    ]
   },
   {
     id: "54e0eccd-8f36-462b-b68a-8182611d9add",
