@@ -86,7 +86,7 @@ export function renderPaymentSummary() {
 			addOrder(order);
 
 		} catch (error) {
-			consol.log('Unexpected error. Try again later.')
+			console.log('Unexpected error. Try again later.');
 		}
 		
 		window.location.href = 'orders.html';
